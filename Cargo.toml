@@ -11,3 +11,5 @@ license-file = "LICENSE"
 publish = false
 
 [dependencies]
+rand = "0.8.3"
+substring = "1.4.0"

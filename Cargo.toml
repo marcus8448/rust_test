@@ -1,0 +1,13 @@
+[package]
+name = "RustTest"
+description = "Testing out rust"
+version = "0.1.0"
+authors = ["marcus8448"]
+edition = "2018"
+readme = "README.md"
+repository = "https://github.com/marcus8448/rust_test/"
+license = "LGPL-3-only"
+license-file = "LICENSE"
+publish = false
+
+[dependencies]
